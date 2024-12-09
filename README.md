@@ -1,0 +1,1 @@
+This is an Encryption and Decryption Program that utilizes both source and machine code through bit swapping, XOR operations, and key-based algorithms with the ability to process command line arguments.
